@@ -1,4 +1,4 @@
-Prazer, me chamo Igor.
+Prazer, me chamo Igor
 
 Sou Engenheiro de Software e minha stack principal é TypeScript, Node.js, NestJS e React, atuando fortemente com infraestrutura AWS, PostgreSQL e mensageria.
 
